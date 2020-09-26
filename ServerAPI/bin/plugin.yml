@@ -1,0 +1,8 @@
+name: ServerAPI
+auhtor: ptg
+version: 1.0
+main: ptg.de.skynomix.serverapi.ServerAPI
+commands: 
+  coins:
+  chatclear:
+  recources:
